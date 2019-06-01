@@ -32,7 +32,7 @@ public class Ranh extends JFrame {
 		con.setLayout(new BoxLayout(con, BoxLayout.Y_AXIS));
 		JPanel pnMain = new JPanel();
 		pnMain.setLayout(new FlowLayout());
-		JLabel lblHoi = new JLabel("Bạn cảm thấy hành phúc khi ngồi code java ?");
+		JLabel lblHoi = new JLabel("Bạn cảm thấy hạnh phúc khi ngồi code java ?");
 		lblHoi.setForeground(Color.RED);
 		lblHoi.setFont(fontHoi);
 		pnMain.add(lblHoi);
